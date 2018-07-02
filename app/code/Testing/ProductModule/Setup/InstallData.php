@@ -24,7 +24,7 @@ class InstallData implements InstallDataInterface
 				'group' => 'General',
 				'type' => 'text',
 				'backend' => '',
-				'frontend' => '',
+				'frontend' => 'Testing\ProductModule\Model\Attribute\Frontend\Product',
 				'label' => 'Product Text',
 				'input' => 'text',
 				'sort_order' => 29,
